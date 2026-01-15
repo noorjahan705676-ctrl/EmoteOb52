@@ -1,0 +1,8 @@
+requests
+protobuf==4.25.1
+aiohttp
+pyjwt
+pycryptodome
+cfonts
+protobuf-decoder
+pytz
